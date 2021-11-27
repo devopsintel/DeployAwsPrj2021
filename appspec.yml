@@ -1,0 +1,11 @@
+version: 20.04
+os: ubuntu
+files:
+  - source: /
+    destination: /var/www/intelijobs.com.br
+    owner: www-data
+hooks:
+  BeforeInstall:
+    - location: stop_server
+      timeuout: 30
+      runas: root
