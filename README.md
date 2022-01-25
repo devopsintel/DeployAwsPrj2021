@@ -7,3 +7,5 @@ o Deploy(a atualização do nosso site).
 Topologia da infraestrutura na AWS
 
 ![Solução desafiadora](https://user-images.githubusercontent.com/94132696/151044590-6b53b479-24b5-4f61-8194-cba17ddad248.PNG)
+
+Link sobre de como foi esse projeto com a empresa parceira Intelitrader: https://github.com/sjvinicius/IntelitraderPrj
